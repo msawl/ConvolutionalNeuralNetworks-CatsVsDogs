@@ -1,5 +1,5 @@
 # ConvolutionalNeuralNetworks-CatsVsDogs
-Creating a model to diffrentiate between 2 diffrent categories of images. In this case its Cats Vs Dogs. You can use any other category too.
+Creating a model to diffrentiate between 2 different categories of images. In this case its Cats Vs Dogs. You can use any other category too.
 
 ## To create a CNN model:-
 1. Use Conda to load all the dependencies using this command 
